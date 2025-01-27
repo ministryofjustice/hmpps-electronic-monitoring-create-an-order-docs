@@ -2,7 +2,7 @@
 
 ## About this project
 
-This repository is used to generate the [technical documentation website](https://ministryofjustice.github.io/hmpps-integration-api-docs) for the [HMPPS Electronic Moniotring Create An Orde ](https://github.com/ministryofjustice/hmpps-electronic-monitoring-create-an-order) service.
+This repository is used to generate the [technical documentation website](https://ministryofjustice.github.io/hmpps-electronic-monitoring-create-an-order-docs/) for the [HMPPS Electronic Moniotring Create An Orde ](https://github.com/ministryofjustice/hmpps-electronic-monitoring-create-an-order) service.
 
 
 ## Requirements
