@@ -3,7 +3,7 @@
 
 host: https://ministryofjustice.github.io/hmpps-electronic-monitoring-create-an-order
 show_govuk_logo: false
-service_name: HMPPS Electronic Monitoring Create An Order
+service_name: Guidance for the Electronic Monitoring Order (EMO) online service
 service_link: /
 header_links:
 enable_search: true
